@@ -1,0 +1,14 @@
+#mySq{
+     width : 100px;
+     height : 100px;
+     background-color : blue;
+     position : fixed;
+     left : 100px ;
+     top : 100px;
+}
+
+#leftButton {
+  width: 100px;
+  height: 75px;
+  font-size: 2em;
+}
